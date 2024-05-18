@@ -135,7 +135,7 @@ msgid "All Partitions"
 msgstr "Toutes les partitions"
 
 msgid "All files extracted."
-msgstr "Extraction des fichiers terminés."
+msgstr "Extraction des fichiers terminée."
 
 msgid "All images downloaded successfully."
 msgstr "Images correctement téléchargées"
@@ -183,7 +183,7 @@ msgid "Are you sure you want to lock USB Loader GX?"
 msgstr "Voulez-vous vraiment verrouiller USB loader GX ?"
 
 msgid "Are you sure you want to remount SD?"
-msgstr "Voulez-vous vraiment recharger la carte SD ?"
+msgstr "Voulez-vous vraiment monter la carte SD ?"
 
 msgid "Are you sure you want to reset?"
 msgstr "Voulez-vous vraiment réinitialiser ?"
