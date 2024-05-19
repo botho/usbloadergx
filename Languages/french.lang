@@ -78,7 +78,7 @@ msgid "2 (Teen 12+)"
 msgstr "2 (Adolescents 12+)"
 
 msgid "20 min"
-msgstr ""
+msgstr "20 min"
 
 msgid "2D Cover Path"
 msgstr "Dossier jaquettes 2D"
@@ -87,10 +87,10 @@ msgid "3 (Mature 16+)"
 msgstr "3 (Jeunes adultes 16+)"
 
 msgid "3 min"
-msgstr ""
+msgstr "3 min"
 
 msgid "30 min"
-msgstr ""
+msgstr "30 min"
 
 msgid "3D Cover Path"
 msgstr "Dossier jaquettes 3D"
@@ -102,10 +102,10 @@ msgid "4 (Adults Only 18+)"
 msgstr "4 (Adultes 18+)"
 
 msgid "480p Pixel Fix Patch"
-msgstr ""
+msgstr "Correctif 480p Pixel"
 
 msgid "5 min"
-msgstr ""
+msgstr "5 min"
 
 msgid "=== GameCube Settings"
 msgstr "===== Param. GameCube"
@@ -183,7 +183,7 @@ msgid "Are you sure you want to lock USB Loader GX?"
 msgstr "Voulez-vous vraiment verrouiller USB loader GX ?"
 
 msgid "Are you sure you want to remount SD?"
-msgstr "Voulez-vous vraiment monter la carte SD ?"
+msgstr "Voulez-vous vraiment remonter la carte SD ?"
 
 msgid "Are you sure you want to reset?"
 msgstr "Voulez-vous vraiment réinitialiser ?"
@@ -441,7 +441,7 @@ msgid "Connection to server timed out."
 msgstr "Le serveur ne répond pas."
 
 msgid "Console"
-msgstr ""
+msgstr "Console"
 
 msgid "Console Default"
 msgstr "Console par défaut"
@@ -550,7 +550,7 @@ msgid "Current neek files are not neek2o. Game autoboot disabled."
 msgstr "Le fichier neek actuel n'est pas neek2o. Démarrage automatique désactivé."
 
 msgid "Custom Address"
-msgstr "Adresse perso"
+msgstr "Adresse personnalisée"
 
 msgid "Custom Banners"
 msgstr "Bannières persos"
@@ -646,7 +646,7 @@ msgid "Devolution Loader Path"
 msgstr "Dossier Loader Devolution"
 
 msgid "Devolution's loader.bin file can't be loaded."
-msgstr "Le fichier loader.bin Devolution n'a pu être chargé."
+msgstr "Le fichier loader.bin de Devolution n'a pu être chargé."
 
 msgid "Directory does not exist!"
 msgstr "Répertoire inexistant !"
@@ -661,13 +661,13 @@ msgid "Disc 2"
 msgstr "Disque 2"
 
 msgid "Disc Artwork"
-msgstr "label DVD"
+msgstr "Illustration de disque"
 
 msgid "Disc Artwork Download"
-msgstr "Téléch. des labels DVD"
+msgstr "Téléch. des illustrations de disque"
 
 msgid "Disc Artwork Path"
-msgstr "Dossier labels DVD"
+msgstr "Dossier des illustrations de disque"
 
 msgid "Disc Default"
 msgstr "Disque par défaut"
@@ -1948,7 +1948,7 @@ msgid "Save List"
 msgstr "Exporter la liste"
 
 msgid "Save Path"
-msgstr "Sauvegarder le dossier"
+msgstr "Chemin de la sauvegarde"
 
 msgid "Saved"
 msgstr "Sauvegardé"
@@ -2041,16 +2041,16 @@ msgid "Sorry, the theme downloader menu is not working anymore because http://wi
 msgstr "Désolé, le menu de téléchargement des thèmes ne fonctionne plus, le site http://wii.spiffy360.com nécessite désormais un compte utilisateur. "
 
 msgid "Sort alphabetically"
-msgstr "Tri par ordre alphabétique"
+msgstr "Trier par ordre alphabétique"
 
 msgid "Sort by number of players"
-msgstr "Tri par nombre de joueurs"
+msgstr "Trier par nombre de joueurs"
 
 msgid "Sort by rank"
-msgstr "Tri par classement favoris"
+msgstr "Trier par classement favoris"
 
 msgid "Sort order by most played"
-msgstr "Tri par les plus joués"
+msgstr "Trier par les plus joués"
 
 msgid "Sound"
 msgstr "Sons"
